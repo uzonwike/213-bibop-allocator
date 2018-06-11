@@ -1,0 +1,7 @@
+.DS_Store
+.nfs*
+myallocator.so
+obj
+*~
+\#*\#
+._*
